@@ -1,0 +1,61 @@
+---------------------------------------------
+                ACTIVITY LOG
+---------------------------------------------
+Thu Aug 18 18:59:50 2022 Student ETS0306/13 Logged in.
+Thu Aug 18 19:21:12 2022 Admin  Searched for book q.
+Fri Aug 19 09:31:26 2022 New Student ETS0306/13 Registered.
+Fri Aug 19 09:31:26 2022 Student ets0306/13 Logged in.
+Fri Aug 19 09:45:54 2022 Student ETS0306/13 Searched for book aa.
+Fri Aug 19 09:50:47 2022 Student ETS0306/13 Logged in.
+Fri Aug 19 11:12:33 2022 Student ETS0306/13 Logged in.
+Fri Aug 19 11:14:11 2022 New Librarian 3333 added by Admin.
+Fri Aug 19 11:35:07 2022 Librarian 3333 Logged in.
+Fri Aug 19 11:35:07 2022 Librarian 3333 Changed his/her name from BisRy to Bisrat.
+Fri Aug 19 11:40:15 2022 Librarian 3333 Logged in.
+Fri Aug 19 11:40:15 2022 Librarian 3333 Changed password..
+Fri Aug 19 11:40:15 2022 Librarian 3333 deleted his/her Account.
+Fri Aug 19 11:40:15 2022 Student ETS0306/13 Logged in.
+Fri Aug 19 11:40:15 2022 Student ETS0306/13 Changed his/her name from Bisrat Kebere to BisRy.
+Fri Aug 19 11:40:15 2022 Student ETS0306/13 Changed password..
+Fri Aug 19 11:40:15 2022 Student ETS0306/13 deleted his/her Account.
+Fri Aug 19 11:44:44 2022 New Student ets0311 Registered.
+Fri Aug 19 11:44:44 2022 Student ets0311 Logged in.
+Fri Aug 19 11:44:44 2022 New Librarian ets0312 added by Admin.
+Fri Aug 19 11:44:44 2022 Librarian ets0312 Logged in.
+Fri Aug 19 11:44:44 2022 Librarian ets0312 added new book 001.
+Fri Aug 19 11:44:44 2022 Librarian ets0312 added new book 002.
+Fri Aug 19 11:44:44 2022 Librarian ets0312 updated book 002 info.
+Fri Aug 19 11:44:44 2022 Student ets0311 Logged in.
+Fri Aug 19 11:44:44 2022 Student ets0311 Requested to borrow book 001.
+Fri Aug 19 11:44:44 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:12:18 2022 Student ets0311 Logged in.
+Fri Aug 19 12:12:18 2022 Student ets0311 Searched for book 2.
+Fri Aug 19 12:12:18 2022 Student ets0311 Requested to borrow book 003.
+Fri Aug 19 12:12:18 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:22:18 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:33:17 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:33:17 2022 Student ets0311 Logged in.
+Fri Aug 19 12:33:17 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:49:53 2022 Student ets0311 Logged in.
+Fri Aug 19 12:49:53 2022 Student ets0311 Searched for book 00.
+Fri Aug 19 12:49:53 2022 Student ets0311 Requested to borrow book 002.
+Fri Aug 19 12:52:17 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:55:17 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:55:17 2022 Librarian ets0312 added new book B0001.
+Fri Aug 19 12:59:46 2022 Librarian ets0312 Logged in.
+Fri Aug 19 12:59:46 2022 Librarian ets0312 added new book B0002.
+Fri Aug 19 13:08:04 2022 Librarian ets0312 Logged in.
+Fri Aug 19 13:08:04 2022 Librarian ets0312 added new book B0003.
+Fri Aug 19 13:10:39 2022 Librarian ets0312 Logged in.
+Fri Aug 19 13:10:39 2022 Librarian ets0312 added new book B0004.
+Fri Aug 19 13:10:39 2022 Librarian ets0312 added new book B0005.
+Fri Aug 19 13:10:39 2022 Librarian ets0312 updated book B0004 info.
+Fri Aug 19 13:10:39 2022 Librarian ets0312 added new book 111.
+Fri Aug 19 13:10:39 2022 Librarian ets0312 Deleted book 111.
+Fri Aug 19 13:21:59 2022 Student ets0311 Logged in.
+Fri Aug 19 13:21:59 2022 Student ets0311 Requested to borrow book B0001.
+Fri Aug 19 13:21:59 2022 Student ets0311 Requested to borrow book B0003.
+Fri Aug 19 13:21:59 2022 Librarian ets0312 Logged in.
+Fri Aug 19 13:32:12 2022 Student ets0311 Logged in.
+Fri Aug 19 13:32:12 2022 Librarian ets0312 Logged in.
+Fri Aug 19 13:38:04 2022 Librarian ets0312 Logged in.
